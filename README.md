@@ -1,5 +1,3 @@
-# tcdf-gov-digital
-repositório TCDF
 name: Deploy (GitHub Pages)
 on:
   push:
